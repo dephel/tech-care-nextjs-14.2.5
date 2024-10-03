@@ -54,5 +54,3 @@ the project is implemented with nextjs@14, and to get patientdata Server-Side Re
 ```bash
 daviddephel9@gmail.com
 ```
-
-# tech-care-test
