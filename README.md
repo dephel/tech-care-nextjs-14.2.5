@@ -1,5 +1,6 @@
 ## Getting Started
 
+<img src='/Screenshot 2024-10-03 at 06.31.42.png'/>
 First, install dependencies:
 
 ```bash
@@ -53,4 +54,5 @@ the project is implemented with nextjs@14, and to get patientdata Server-Side Re
 ```bash
 daviddephel9@gmail.com
 ```
+
 # tech-care-test
